@@ -25,10 +25,10 @@ To try the game, open the `index.html` file in a web browser. Use the controls m
 
 ## Acknowledgments
 
-This project was inspired by the classic Pong game and was created as a learning exercise. It utilizes HTML canvas and JavaScript to implement the game mechanics. The code was developed based on tutorials and examples found online.
-
+This project was inspired by the classic Pong game and was created as a learning exercise. It utilizes HTML canvas and JavaScript to implement the game mechanics. The code was developed based on Marcin's Monskała Book "JavaScript from scratch".
 ## Author
 
-John Doe - johndoe@example.com
+Oskar Kalbarczyk
+https://linktr.ee/codewithoskar
 
 Feel free to reach out if you have any questions or feedback.
